@@ -1,1 +1,3 @@
+#rules to Git about what files ought to be ignored or not tracked.
 text.txt
+thirdfile.txt
