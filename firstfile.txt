@@ -7,3 +7,7 @@ this is the second commit after init commit
 this is the third commit after init commit 
 
 
+I am doing some changes on this file while I am on new_feature branch
+
+I am doing some changes here while I am on third branch . so whatever you
+guys see later it would be from third branch
