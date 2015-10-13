@@ -7,3 +7,4 @@ this is the second commit after init commit
 this is the third commit after init commit 
 
 
+I am doing some changes on this file while I am on new_feature branch
